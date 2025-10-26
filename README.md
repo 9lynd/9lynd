@@ -15,6 +15,7 @@ Software Engineer with a focus on building robust backend systems while developi
 - **Database Systems & Internals:** Studying storage engines and concurrency control mechanisms to understand how data persistence and retrieval shape backend performance.
 - **Distributed Systems:** Investigating synchronization, replication, and fault-tolerant communication models for scalable, resilient architectures.
 - **Software Architecture & Design Patterns:** Applying modular design and abstraction principles to create maintainable and extensible system components.
+- **Cloud & DevOps practices:** Understanding how software is delivered and maintained in production environments, with attention to automation, scalability, and reliability across cloud platforms.
 
 
 --- 
