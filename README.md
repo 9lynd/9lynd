@@ -1,7 +1,7 @@
 # Ali Mohamed | Software Engineer
-**Designing and Building Efficient Backend Systems**
+**Making sure things are backending**
 
-Software Engineer with a focus on building robust backend systems while developing a deeper understanding of how complex software operates at scale. The current phase of work centers on bridging practical development with a stronger grasp of underlying computing concepts — exploring how architecture, design, and system behavior connect to form efficient and reliable applications. The goal is to continuously refine both technical depth and problem-solving discipline through consistent learning and hands-on experimentation.
+Software Engineer with a focus on building robust backend systems while developing a deeper understanding of how complex software operates at scale. The current phase of work centers on bridging practical development with a stronger grasp of underlying computing concepts, exploring how architecture, design, and system behavior connect to form efficient and reliable applications. The goal is to continuously refine both technical depth and problem-solving discipline through consistent learning and hands-on experimentation.
 
 --- 
 
@@ -21,4 +21,4 @@ Software Engineer with a focus on building robust backend systems while developi
 --- 
 
 ## 🤝 Collaboration 
-Interested in SaaS applications, developer platforms, and scalable cloud-native systems. Always open to working with talented teams building reliable, robust systems — if you’re building something solid, **let’s connect** 💬.
+Interested in SaaS applications, developer platforms, and scalable cloud-native systems. Always open to working with talented teams building reliable, robust systems. if you’re building something solid, **let’s connect** 💬.
